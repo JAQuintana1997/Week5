@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jquintana\\documents\\unreal projects\\week5\\source\\week5\\week5gamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jquintana\\documents\\unreal projects\\week5\\intermediate\\build\\win64\\week5editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jquintana\\documents\\unreal projects\\week5\\intermediate\\build\\win64\\unrealeditor\\development\\week5\\definitions.week5.h",
+            "c:\\users\\jquintana\\documents\\unreal projects\\week5\\source\\week5\\week5gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\jquintana\\documents\\unreal projects\\week5\\intermediate\\build\\win64\\unrealeditor\\inc\\week5\\week5gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Week5",
+			"Path": "C:\\Users\\jquintana\\Documents\\Unreal Projects\\Week5\\Source\\Week5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Week5Editor",
+			"Path": "C:\\Users\\jquintana\\Documents\\Unreal Projects\\Week5\\Source\\Week5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jquintana\\documents\\unreal projects\\week5\\source\\week5\\week5.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jquintana\\documents\\unreal projects\\week5\\intermediate\\build\\win64\\week5editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jquintana\\documents\\unreal projects\\week5\\intermediate\\build\\win64\\unrealeditor\\development\\week5\\definitions.week5.h",
+            "c:\\users\\jquintana\\documents\\unreal projects\\week5\\source\\week5\\week5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
