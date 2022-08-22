@@ -11,6 +11,8 @@
     <None Include="..\..\Source\Week5Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -47,10 +49,16 @@
     <ClCompile Include="..\..\Source\Week5\Private\DoorInteract.cpp">
       <Filter>Source\Week5\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Week5\Private\InteractableDoor.cpp">
+      <Filter>Source\Week5\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Week5\Public">
       <UniqueIdentifier>{7212721B-C388-322A-BD81-1710636321DB}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Week5\Public\DoorInteract.h">
+      <Filter>Source\Week5\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Week5\Public\InteractableDoor.h">
       <Filter>Source\Week5\Public</Filter>
     </ClInclude>
   </ItemGroup>

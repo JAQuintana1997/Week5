@@ -34,10 +34,12 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\Week5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\DoorInteract.cpp.obj"
 "C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\Week5.cpp.obj"
 "C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\Week5GameModeBase.cpp.obj"
+"C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\DoorInteract.cpp.obj"
+"C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\InteractableDoor.cpp.obj"
 "C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\DoorInteract.gen.cpp.obj"
+"C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\InteractableDoor.gen.cpp.obj"
 "C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\Week5.init.gen.cpp.obj"
 "C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\Week5GameModeBase.gen.cpp.obj"
 "C:\Users\jquintana\Documents\Unreal Projects\Week5\Intermediate\Build\Win64\UnrealEditor\Development\Week5\Default.rc2.res"

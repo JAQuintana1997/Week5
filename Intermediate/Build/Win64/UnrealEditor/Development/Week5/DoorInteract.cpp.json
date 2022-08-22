@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jquintana\\documents\\unreal projects\\week5\\source\\week5\\private\\doorinteract.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jquintana\\documents\\unreal projects\\week5\\intermediate\\build\\win64\\week5editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jquintana\\documents\\unreal projects\\week5\\intermediate\\build\\win64\\unrealeditor\\development\\week5\\definitions.week5.h",
+            "c:\\users\\jquintana\\documents\\unreal projects\\week5\\source\\week5\\public\\doorinteract.h",
+            "c:\\users\\jquintana\\documents\\unreal projects\\week5\\intermediate\\build\\win64\\unrealeditor\\inc\\week5\\doorinteract.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\triggerbox.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\triggerbase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\triggerbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\triggerbox.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
